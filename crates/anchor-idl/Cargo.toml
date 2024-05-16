@@ -15,7 +15,7 @@ compat-program-result = []
 anchor-lang = ">0.20.0"
 anchor-syn = { version = "0.24.2", features = ["idl"] }
 darling = "0.14"
-heck = "0.4.1"
+heck = "0.5.0"
 proc-macro2 = "1"
 quote = "1"
 serde_json = "1.0.108"
